@@ -1,0 +1,13 @@
+﻿  sdata.cpp
+E:\test\src\source\sdata.cpp(70,32): warning C4244: 'return': conversion from '__int64' to 'long', possible loss of data
+  MyForm.cpp
+C:\Users\johnm\source\repos\gears3 Launcher\gears3 Launcher\MyForm.h(404,19): warning C4244: 'initializing': conversion from 'wchar_t' to 'char', possible loss of data
+C:\Users\johnm\source\repos\gears3 Launcher\gears3 Launcher\MyForm.h(507,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\johnm\source\repos\gears3 Launcher\gears3 Launcher\MyForm.h(503,37): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\johnm\source\repos\gears3 Launcher\gears3 Launcher\MyForm.cpp(8,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm1.cpp
+  Generating Code...
+LINK : warning LNK4044: unrecognized option '/DDEBUG'; ignored
+  sdata.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+LINK : warning LNK4044: unrecognized option '/DDEBUG'; ignored
+  gears3 Launcher.vcxproj -> C:\Users\johnm\source\repos\gears3 Launcher\x64\Debug\gears3 Launcher.exe

@@ -1,0 +1,5 @@
+C:\Users\johnm\source\repos\gears3 Launcher\gears3 Launcher\x64\Debug\gears3 Launcher.vcxproj.AssemblyReference.cache
+C:\Users\johnm\source\repos\gears3 Launcher\gears3 Launcher\x64\Debug\gears3 Launcher.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\johnm\source\repos\gears3 Launcher\gears3 Launcher\x64\Debug\gears3Launcher.MyForm.resources
+C:\Users\johnm\source\repos\gears3 Launcher\gears3 Launcher\x64\Debug\gears3Launcher.MyForm1.resources
+C:\Users\johnm\source\repos\gears3 Launcher\gears3 Launcher\x64\Debug\gears3 Launcher.vcxproj.GenerateResource.cache
