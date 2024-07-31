@@ -74,7 +74,7 @@ namespace hostlistns {
                 client->Close();
             }
 
-            // Wait for some time before sending the next request
+            // Time before sending next request
             std::this_thread::sleep_for(std::chrono::milliseconds(3000));
         }
 
